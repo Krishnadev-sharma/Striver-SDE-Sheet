@@ -1,0 +1,75 @@
+Binary Tree to Doubly Linked List
+Subscribe to TUF+
+
+H
+Given a Binary Tree, convert it into a Doubly Linked List (DLL) in-place. The conversion should maintain the in-order traversal of the binary tree. In the DLL:
+
+The left pointer of each node should point to the previous node.
+The right pointer of each node should point to the next node.
+
+
+Return the head node of the resulting doubly linked list.
+
+
+
+You must not create any new nodes — only modify the left and right pointers of existing tree nodes.
+
+
+Example 1
+
+Input: root = [10,12,15,25,30,36]
+
+Output: [25, 12, 30, 10, 36, 15]
+
+Explanation:
+
+In-order traversal: 25 → 12 → 30 → 10 → 36 → 15
+DLL structure: 25 <-> 12 <-> 30 <-> 10 <-> 36 <-> 15
+Example 2
+
+Input: root = [1,null,2,null,3]
+
+Output: [1, 2, 3]
+
+Explanation:
+
+﻿Right-skewed tree. In-order: 1 → 2 → 3
+DLL: 1 <-> 2 <-> 3
+Constraints
+
+0 <= Number of Nodes <= 10⁴
+Node values are unique  
+
+
+
+// code 
+
+
+
+class Solution {
+public:
+    TreeNode* prev = NULL;
+    TreeNode* head = NULL;
+    void inorder(TreeNode* root){
+        if(root == NULL){
+            return;
+        }
+        inorder(root->left);
+        if(prev == NULL){
+            head = root;
+        }
+        else{
+            prev->right = root;
+            root->left = prev;
+        }
+        prev = root;
+        inorder(root->right);
+    }
+    TreeNode* bToDLL(TreeNode* root) {
+        prev = NULL;
+        head = NULL;
+        inorder(root);
+        return head;
+    }
+};
+
