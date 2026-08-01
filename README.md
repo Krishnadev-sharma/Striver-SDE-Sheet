@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0994-rotting-oranges) |
@@ -183,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishnadev-sharma/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
