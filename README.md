@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [3310-remove-methods-from-project](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
