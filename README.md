@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3310-remove-methods-from-project/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
