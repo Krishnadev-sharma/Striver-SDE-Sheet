@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0686-repeated-string-match](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishnadev-sharma/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
