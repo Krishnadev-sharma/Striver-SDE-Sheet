@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0686-repeated-string-match](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishnadev-sharma/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishnadev-sharma/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
