@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krishnadev-sharma/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krishnadev-sharma/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -335,14 +338,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1406-stone-game-iii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -365,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
