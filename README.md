@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krishnadev-sharma/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Krishnadev-sharma/Striver-SDE-Sheet/tree/main/0877-stone-game/) | Medium |
