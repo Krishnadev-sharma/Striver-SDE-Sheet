@@ -62,7 +62,7 @@ You can return the answer in any order.
 ### ⏱️ Submission Stats
 - **Language:** C++
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 14.9 MB (Beats 44.36%)
+- **Memory:** 15 MB (Beats 28.26%)
 
 ---
 
