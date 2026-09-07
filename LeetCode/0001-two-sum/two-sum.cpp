@@ -3,7 +3,7 @@ Problem: Two Sum (#1)
 LeetCode: https://leetcode.com/problems/two-sum/
 Language: C++
 Runtime: 0 ms
-Memory: 14.9 MB
+Memory: 15 MB
 Approach: Optimized Solution
 Author: Krishnadev_sharma
 Synced by CodeCrus: https://github.com/Krishnadev-sharma/Striver-SDE-Sheet
