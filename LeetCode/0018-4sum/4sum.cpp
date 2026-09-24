@@ -2,7 +2,7 @@
 Problem: 4Sum (#18)
 LeetCode: https://leetcode.com/problems/4sum/
 Language: C++
-Runtime: 19 ms
+Runtime: 16 ms
 Memory: 17.4 MB
 Approach: One-Pass Hash Map (Complement Lookup)
 Author: Krishnadev_sharma
